@@ -1,0 +1,244 @@
+.header 
+{
+    padding: 100px 0;
+    background: linear-gradient(to right, $color-greensea, $color-greensea-light);
+    .position 
+    {
+        position: relative;
+        .info 
+        {
+            padding: 40px 0;
+            h1 
+            {
+                text-align: left; 
+                font-size: 50px;
+                font-weight: 500;
+                color: white;
+            }
+            hr 
+            {
+                background-color: white;
+                width: 100px;
+                height: 2px;
+            }
+            p 
+            {
+                color: white;
+                font-size: 18px;
+            }
+        }
+
+        .img 
+        {
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+    }
+}
+
+.section-summary 
+{
+    padding: 25px 0 15px 0;
+    box-shadow: 0 3px 10px rgba(black ,.2);
+    background-color: $color-grey-light-1;
+    text-align: center;
+    .wrapper 
+    {
+        text-align: center;
+    }
+    i 
+    {
+        font-size: 60px;
+    }
+    h2 
+    {
+        font-size: 60px;
+    }
+    h4 
+    {
+        color: $color-greensea;
+    }
+    p 
+    {
+        font-size:  16px;
+    }
+}
+
+.heading 
+{
+    hr 
+    {
+        width: 100px;
+        height: 2px;
+        background-color: $color-greensea;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+.section-usage 
+{
+    //clip-path: polygon(0 0, 80% 15%, 100% 0, 100% 100%, 0 100% );
+    padding: 100px 0;
+    .usage 
+    {
+        text-align: center;
+        h3 
+        {
+            margin-top: 30px;
+            font-weight: bold;
+        }
+        p 
+        {
+            margin-top: 20px;
+            font-size: 20px;
+        }
+    }
+}
+
+.section-services 
+{
+    background-color: $color-grey-light-1;
+    padding: 100px 0;
+    .service-wrapper 
+    {
+        padding-top: 50px;
+    }
+    .service 
+    {
+        text-align: center;
+        box-shadow: 0 5px 10px rgba(black, .3);
+        padding: 12px 10px;
+        border-radius: 3px;
+        margin-top: 30px;
+        i 
+        {
+            font-size: 50px; 
+            margin-bottom: 15px;
+            color: $color-orange-1;
+        }
+        h6 
+        {
+            font-size: 16px;
+        }
+    }
+}
+.section-fixer 
+{
+    background: linear-gradient(to right, $color-greensea, $color-greensea-light);
+    padding: 100px 0;
+    .heading 
+    {
+        hr 
+        {
+            background-color: white;
+        }
+    }
+    .fixer__benifit 
+    {
+        color: white;
+        i 
+        {
+            color: white;
+            font-size: 50px;
+        }
+        &--txt 
+        {
+            margin-bottom: 20px;
+        }
+    }
+    .fixer--img 
+    {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
+
+.section-user 
+{
+    padding: 100px 0;
+    .user 
+    {
+        &__benifit 
+        {
+            i 
+            {
+                font-size: 50px;
+            }
+            &--txt 
+            {
+                margin-top: 20px;
+            }
+        }
+        &--img 
+        {
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+    }
+}
+
+
+.section-why 
+{
+    padding: 100px 0;
+    background: linear-gradient(to right, $color-greensea, $color-greensea-light);
+    .heading hr 
+    {
+        background-color: white;
+    }
+    .why 
+    {
+        padding: 80px 40px;
+        background-color: white;
+        border-radius: 5px;
+        box-shadow: 0 5px 10px rgba(black, .3);
+        text-align: center;
+        i 
+        {
+            font-size: 60px;
+        }
+        h4 
+        {
+            margin-top: 20px;
+        }
+
+    }
+}
+
+.section-account 
+{
+    padding: 50px 0;
+    .account 
+    {
+        hr 
+        {
+            transition: all .3s;
+            width: 60%;
+            height: 2px;
+            background-color: $color-greensea;
+        }
+        a 
+        {
+            transition: all .3s;
+            text-decoration: none;
+            color: black;
+        }
+        &:hover a
+        {
+            color: $color-greensea;
+        }
+        &:hover hr 
+        {
+            background-color: black;
+        }
+    }
+}
+
+.wrapper 
+{
+    padding: 80px 0;
+}

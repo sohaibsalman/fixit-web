@@ -1,0 +1,68 @@
+
+
+
+body 
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4,h5
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading-form 
+{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: $color-orange-1;
+    text-align: center;
+}
+
+.heading-white 
+{
+    color: white;
+}
+
+.heading-main 
+{
+    color: $color-greensea;
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: 8px;
+    font-weight: bold;
+    text-shadow: 0px 5px 10px rgba(black, .3);
+    margin: 0;
+}
+
+.heading-sub 
+{
+    padding-top: 5px;
+    color: white;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    text-shadow: 2px 2px 2px rgba(black, .5);
+}
+
+.heading-primary 
+{
+    color: black;
+    text-align: center;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.heading-primary--white 
+{
+    color: white;
+}
+
+.heading-secondary 
+{
+    color: black;
+    font-size: 20px;
+}
+p 
+{
+    font-size: 18px;
+}

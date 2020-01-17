@@ -1,0 +1,17 @@
+.profile-summary 
+{
+    border-bottom: 3px solid $color-greensea-light;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    background: white;
+}
+
+.fixer-rating 
+{
+    text-align: center;
+    i 
+    {
+        font-size: 50px;
+        color: $color-orange-2;
+    }
+}

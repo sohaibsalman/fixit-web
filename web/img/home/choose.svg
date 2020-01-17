@@ -1,0 +1,15 @@
+<svg id="choose-freelancers-c7d9fb04" xmlns="http://www.w3.org/2000/svg" width="240" height="259.045" viewBox="0 0 240 259.045">
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="240" height="240" rx="120" fill="#f4f7fb"/>
+  <path id="Path_1" data-name="Path 1" d="M74.773,79.5h91.954A7.273,7.273,0,0,1,174,86.773V247.227a7.273,7.273,0,0,1-7.273,7.273H74.773a7.273,7.273,0,0,1-7.273-7.273V86.773A7.273,7.273,0,0,1,74.773,79.5Z" fill="#16a085" stroke="#16a085" stroke-width="9.091" fill-rule="evenodd"/>
+  <path id="Path_2" data-name="Path 2" d="M76.5,94H165V248H76.5Z" fill="#fff" fill-rule="evenodd"/>
+  <g id="Group_1" data-name="Group 1" transform="translate(110 83)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="22.5" height="3" rx="1.5" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="3" height="3" rx="1.5" transform="translate(25.5)" fill="#fff"/>
+  </g>
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="24" cy="24" r="24" transform="translate(97.5 117)" fill="#f4f7fb"/>
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="7.5" cy="7.5" r="7.5" transform="translate(114 129)" fill="#c8d3dd"/>
+  <path id="Path_3" data-name="Path 3" d="M139.3,157.022a19.508,19.508,0,0,0-35.362-.5c-.636,1.315,8.2,8.4,17.564,8.481C130.388,165.075,139.83,158.207,139.3,157.022Z" fill="#c8d3dd" fill-rule="evenodd"/>
+  <path id="Path_4" data-name="Path 4" d="M143.916,171.357l-7.416-4.676-7.416,4.676,2.15-8.508-6.734-5.618,8.745-.582L136.5,148.5l3.255,8.149,8.745.582-6.733,5.618,1.564,6.193Z" fill="#1abc9c" stroke="#1abc9c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill-rule="evenodd"/>
+  <rect id="Rectangle_4" data-name="Rectangle 4" width="43.5" height="6" rx="3" transform="translate(100.5 181.5)" fill="#e9eef2"/>
+  <rect id="Rectangle_5" data-name="Rectangle 5" width="63" height="15" rx="7.5" transform="translate(90 192)" fill="#e9eef2"/>
+</svg>

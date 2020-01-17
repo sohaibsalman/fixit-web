@@ -1,0 +1,67 @@
+.button 
+{
+    display: inline-block;
+} 
+
+.btn-text 
+{
+    &:link,
+    &:visited 
+    {
+        border-radius: 3px;
+        padding: 8px 20px;
+        text-decoration: none;
+        color: white;
+        font-weight: 700;
+        background: $color-orange-1;
+        display: inline-block;
+        transition: all .2s;
+        font-weight: 500;
+    }
+
+    &:hover 
+    {
+        box-shadow: 0 5px 6px rgba(black, .20);
+        transform: translateY(-2px);
+    }
+
+    &:active 
+    {
+        box-shadow: 0 2.5px 3px rgba(black, .10);
+        transform: translateY(0);
+    }
+
+}
+
+.btn--white 
+{
+    &:link,
+    &:visited 
+    {
+        color: $color-orange-1;
+        background-color: white;
+    }
+}
+.btn--green 
+{
+    &:link,
+    &:visited 
+    {
+        color: white;
+        background-color: $color-greensea;
+    }
+}
+
+.btn-header 
+{
+    animation-delay: .8s;
+}
+
+.btn-submit 
+{
+    border: 1px solid $color-greensea;
+    background-color: $color-greensea;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
